@@ -12,4 +12,4 @@ Cada exemplo tem seu próprio README com informações úteis.
 ## Links
 
 - [Slides](https://t.co/qeulBC2T98)
-
+- [Meu site](http://lsantos.me) <- Todas as redes sociais estão aqui, meu e-mail também. Sinta-se à vontade para me perguntar algo!
