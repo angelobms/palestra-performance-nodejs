@@ -1,0 +1,15 @@
+{
+  "name": "exemplo-node-flamegraph",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "flame": "./node_modules/.bin/0x -o index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "0x": "^2.5.3"
+  }
+}

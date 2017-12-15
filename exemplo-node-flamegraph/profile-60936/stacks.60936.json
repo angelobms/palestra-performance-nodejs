@@ -1,0 +1,1429 @@
+{
+  "name": "",
+  "value": 744,
+  "top": 2,
+  "children": [
+    {
+      "name": "node`0x6",
+      "value": 741,
+      "top": 0,
+      "children": [
+        {
+          "name": "Stub:JSEntryStub",
+          "value": 738,
+          "top": 0,
+          "children": [
+            {
+              "name": "Builtin:JSEntryTrampoline",
+              "value": 738,
+              "top": 0,
+              "children": [
+                {
+                  "name": "Builtin:InterpreterEntryTrampoline",
+                  "value": 738,
+                  "top": 1,
+                  "children": [
+                    {
+                      "name": "Builtin:InterpreterEntryTrampoline",
+                      "value": 738,
+                      "top": 1,
+                      "children": [
+                        {
+                          "name": "Builtin:InterpreterEntryTrampoline",
+                          "value": 737,
+                          "top": 0,
+                          "children": [
+                            {
+                              "name": "Builtin:InterpreterEntryTrampoline",
+                              "value": 737,
+                              "top": 0,
+                              "children": [
+                                {
+                                  "name": "Builtin:InterpreterEntryTrampoline",
+                                  "value": 737,
+                                  "top": 0,
+                                  "children": [
+                                    {
+                                      "name": "Builtin:InterpreterEntryTrampoline",
+                                      "value": 736,
+                                      "top": 0,
+                                      "children": [
+                                        {
+                                          "name": "Builtin:InterpreterEntryTrampoline",
+                                          "value": 736,
+                                          "top": 0,
+                                          "children": [
+                                            {
+                                              "name": "Builtin:InterpreterEntryTrampoline",
+                                              "value": 736,
+                                              "top": 0,
+                                              "children": [
+                                                {
+                                                  "name": "Builtin:InterpreterEntryTrampoline",
+                                                  "value": 736,
+                                                  "top": 0,
+                                                  "children": [
+                                                    {
+                                                      "name": "Builtin:InterpreterEntryTrampoline",
+                                                      "value": 732,
+                                                      "top": 0,
+                                                      "children": [
+                                                        {
+                                                          "name": "Builtin:InterpreterEntryTrampoline",
+                                                          "value": 350,
+                                                          "top": 0,
+                                                          "children": [
+                                                            {
+                                                              "name": "Builtin:InterpreterEntryTrampoline",
+                                                              "value": 108,
+                                                              "top": 0,
+                                                              "children": [
+                                                                {
+                                                                  "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                  "value": 108,
+                                                                  "top": 82,
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                      "value": 108,
+                                                                      "top": 82,
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                          "value": 108,
+                                                                          "top": 82,
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                              "value": 108,
+                                                                              "top": 82,
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                  "value": 108,
+                                                                                  "top": 82,
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                      "value": 108,
+                                                                                      "top": 82,
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                          "value": 108,
+                                                                                          "top": 82,
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                              "value": 108,
+                                                                                              "top": 82,
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                  "value": 108,
+                                                                                                  "top": 82,
+                                                                                                  "children": [
+                                                                                                    {
+                                                                                                      "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                      "value": 108,
+                                                                                                      "top": 82,
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                          "value": 108,
+                                                                                                          "top": 82,
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                              "value": 108,
+                                                                                                              "top": 82,
+                                                                                                              "children": [
+                                                                                                                {
+                                                                                                                  "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                  "value": 108,
+                                                                                                                  "top": 82,
+                                                                                                                  "children": [
+                                                                                                                    {
+                                                                                                                      "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                      "value": 108,
+                                                                                                                      "top": 82,
+                                                                                                                      "children": [
+                                                                                                                        {
+                                                                                                                          "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                          "value": 108,
+                                                                                                                          "top": 82,
+                                                                                                                          "children": [
+                                                                                                                            {
+                                                                                                                              "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                              "value": 108,
+                                                                                                                              "top": 82,
+                                                                                                                              "children": [
+                                                                                                                                {
+                                                                                                                                  "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                                  "value": 108,
+                                                                                                                                  "top": 82,
+                                                                                                                                  "children": [
+                                                                                                                                    {
+                                                                                                                                      "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                                      "value": 107,
+                                                                                                                                      "top": 81,
+                                                                                                                                      "children": [
+                                                                                                                                        {
+                                                                                                                                          "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                                          "value": 102,
+                                                                                                                                          "top": 79,
+                                                                                                                                          "children": [
+                                                                                                                                            {
+                                                                                                                                              "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                                              "value": 98,
+                                                                                                                                              "top": 77,
+                                                                                                                                              "children": [
+                                                                                                                                                {
+                                                                                                                                                  "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                                                  "value": 90,
+                                                                                                                                                  "top": 73,
+                                                                                                                                                  "children": [
+                                                                                                                                                    {
+                                                                                                                                                      "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                                                      "value": 79,
+                                                                                                                                                      "top": 65,
+                                                                                                                                                      "children": [
+                                                                                                                                                        {
+                                                                                                                                                          "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                                                          "value": 60,
+                                                                                                                                                          "top": 51,
+                                                                                                                                                          "children": [
+                                                                                                                                                            {
+                                                                                                                                                              "name": "Builtin:Subtract",
+                                                                                                                                                              "value": 1,
+                                                                                                                                                              "top": 1
+                                                                                                                                                            },
+                                                                                                                                                            {
+                                                                                                                                                              "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                                                              "value": 38,
+                                                                                                                                                              "top": 33,
+                                                                                                                                                              "children": [
+                                                                                                                                                                {
+                                                                                                                                                                  "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                                                                  "value": 22,
+                                                                                                                                                                  "top": 20,
+                                                                                                                                                                  "children": [
+                                                                                                                                                                    {
+                                                                                                                                                                      "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                                                                      "value": 13,
+                                                                                                                                                                      "top": 13,
+                                                                                                                                                                      "children": [
+                                                                                                                                                                        {
+                                                                                                                                                                          "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                                                                          "value": 7,
+                                                                                                                                                                          "top": 7,
+                                                                                                                                                                          "children": [
+                                                                                                                                                                            {
+                                                                                                                                                                              "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                                                                              "value": 2,
+                                                                                                                                                                              "top": 2
+                                                                                                                                                                            }
+                                                                                                                                                                          ]
+                                                                                                                                                                        }
+                                                                                                                                                                      ]
+                                                                                                                                                                    },
+                                                                                                                                                                    {
+                                                                                                                                                                      "name": "Builtin:LessThanOrEqual",
+                                                                                                                                                                      "value": 1,
+                                                                                                                                                                      "top": 1
+                                                                                                                                                                    },
+                                                                                                                                                                    {
+                                                                                                                                                                      "name": "Builtin:Subtract",
+                                                                                                                                                                      "value": 1,
+                                                                                                                                                                      "top": 1
+                                                                                                                                                                    }
+                                                                                                                                                                  ]
+                                                                                                                                                                },
+                                                                                                                                                                {
+                                                                                                                                                                  "name": "Builtin:LessThanOrEqual",
+                                                                                                                                                                  "value": 2,
+                                                                                                                                                                  "top": 2
+                                                                                                                                                                },
+                                                                                                                                                                {
+                                                                                                                                                                  "name": "Builtin:Subtract",
+                                                                                                                                                                  "value": 1,
+                                                                                                                                                                  "top": 1
+                                                                                                                                                                }
+                                                                                                                                                              ]
+                                                                                                                                                            },
+                                                                                                                                                            {
+                                                                                                                                                              "name": "Builtin:LessThanOrEqual",
+                                                                                                                                                              "value": 3,
+                                                                                                                                                              "top": 3
+                                                                                                                                                            }
+                                                                                                                                                          ]
+                                                                                                                                                        },
+                                                                                                                                                        {
+                                                                                                                                                          "name": "Builtin:LessThanOrEqual",
+                                                                                                                                                          "value": 3,
+                                                                                                                                                          "top": 3
+                                                                                                                                                        },
+                                                                                                                                                        {
+                                                                                                                                                          "name": "Builtin:Subtract",
+                                                                                                                                                          "value": 2,
+                                                                                                                                                          "top": 2
+                                                                                                                                                        }
+                                                                                                                                                      ]
+                                                                                                                                                    },
+                                                                                                                                                    {
+                                                                                                                                                      "name": "Builtin:Subtract",
+                                                                                                                                                      "value": 2,
+                                                                                                                                                      "top": 2
+                                                                                                                                                    },
+                                                                                                                                                    {
+                                                                                                                                                      "name": "Builtin:LessThanOrEqual",
+                                                                                                                                                      "value": 1,
+                                                                                                                                                      "top": 1
+                                                                                                                                                    }
+                                                                                                                                                  ]
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                  "name": "Builtin:Subtract",
+                                                                                                                                                  "value": 2,
+                                                                                                                                                  "top": 2
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                  "name": "Builtin:LessThanOrEqual",
+                                                                                                                                                  "value": 2,
+                                                                                                                                                  "top": 2
+                                                                                                                                                }
+                                                                                                                                              ]
+                                                                                                                                            },
+                                                                                                                                            {
+                                                                                                                                              "name": "Builtin:LessThanOrEqual",
+                                                                                                                                              "value": 1,
+                                                                                                                                              "top": 1
+                                                                                                                                            },
+                                                                                                                                            {
+                                                                                                                                              "name": "Builtin:Subtract",
+                                                                                                                                              "value": 1,
+                                                                                                                                              "top": 1
+                                                                                                                                            }
+                                                                                                                                          ]
+                                                                                                                                        },
+                                                                                                                                        {
+                                                                                                                                          "name": "Builtin:LessThanOrEqual",
+                                                                                                                                          "value": 1,
+                                                                                                                                          "top": 1
+                                                                                                                                        },
+                                                                                                                                        {
+                                                                                                                                          "name": "Builtin:Subtract",
+                                                                                                                                          "value": 2,
+                                                                                                                                          "top": 2
+                                                                                                                                        }
+                                                                                                                                      ]
+                                                                                                                                    }
+                                                                                                                                  ]
+                                                                                                                                }
+                                                                                                                              ]
+                                                                                                                            }
+                                                                                                                          ]
+                                                                                                                        }
+                                                                                                                      ]
+                                                                                                                    }
+                                                                                                                  ]
+                                                                                                                }
+                                                                                                              ]
+                                                                                                            }
+                                                                                                          ]
+                                                                                                        }
+                                                                                                      ]
+                                                                                                    }
+                                                                                                  ]
+                                                                                                }
+                                                                                              ]
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                              "value": 242,
+                                                              "top": 175,
+                                                              "children": [
+                                                                {
+                                                                  "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                  "value": 242,
+                                                                  "top": 175,
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                      "value": 242,
+                                                                      "top": 175,
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                          "value": 242,
+                                                                          "top": 175,
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                              "value": 242,
+                                                                              "top": 175,
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                  "value": 242,
+                                                                                  "top": 175,
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                      "value": 242,
+                                                                                      "top": 175,
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                          "value": 242,
+                                                                                          "top": 175,
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                              "value": 242,
+                                                                                              "top": 175,
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                  "value": 242,
+                                                                                                  "top": 175,
+                                                                                                  "children": [
+                                                                                                    {
+                                                                                                      "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                      "value": 242,
+                                                                                                      "top": 175,
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                          "value": 242,
+                                                                                                          "top": 175,
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                              "value": 242,
+                                                                                                              "top": 175,
+                                                                                                              "children": [
+                                                                                                                {
+                                                                                                                  "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                  "value": 242,
+                                                                                                                  "top": 175,
+                                                                                                                  "children": [
+                                                                                                                    {
+                                                                                                                      "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                      "value": 241,
+                                                                                                                      "top": 174,
+                                                                                                                      "children": [
+                                                                                                                        {
+                                                                                                                          "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                          "value": 241,
+                                                                                                                          "top": 174,
+                                                                                                                          "children": [
+                                                                                                                            {
+                                                                                                                              "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                              "value": 241,
+                                                                                                                              "top": 174,
+                                                                                                                              "children": [
+                                                                                                                                {
+                                                                                                                                  "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                                  "value": 241,
+                                                                                                                                  "top": 174,
+                                                                                                                                  "children": [
+                                                                                                                                    {
+                                                                                                                                      "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                                      "value": 241,
+                                                                                                                                      "top": 174,
+                                                                                                                                      "children": [
+                                                                                                                                        {
+                                                                                                                                          "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                                          "value": 237,
+                                                                                                                                          "top": 170,
+                                                                                                                                          "children": [
+                                                                                                                                            {
+                                                                                                                                              "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                                              "value": 227,
+                                                                                                                                              "top": 165,
+                                                                                                                                              "children": [
+                                                                                                                                                {
+                                                                                                                                                  "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                                                  "value": 213,
+                                                                                                                                                  "top": 153,
+                                                                                                                                                  "children": [
+                                                                                                                                                    {
+                                                                                                                                                      "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                                                      "value": 192,
+                                                                                                                                                      "top": 142,
+                                                                                                                                                      "children": [
+                                                                                                                                                        {
+                                                                                                                                                          "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                                                          "value": 156,
+                                                                                                                                                          "top": 117,
+                                                                                                                                                          "children": [
+                                                                                                                                                            {
+                                                                                                                                                              "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                                                              "value": 105,
+                                                                                                                                                              "top": 77,
+                                                                                                                                                              "children": [
+                                                                                                                                                                {
+                                                                                                                                                                  "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                                                                  "value": 55,
+                                                                                                                                                                  "top": 42,
+                                                                                                                                                                  "children": [
+                                                                                                                                                                    {
+                                                                                                                                                                      "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                                                                      "value": 31,
+                                                                                                                                                                      "top": 24,
+                                                                                                                                                                      "children": [
+                                                                                                                                                                        {
+                                                                                                                                                                          "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                                                                          "value": 10,
+                                                                                                                                                                          "top": 7,
+                                                                                                                                                                          "children": [
+                                                                                                                                                                            {
+                                                                                                                                                                              "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                                                                              "value": 1,
+                                                                                                                                                                              "top": 1
+                                                                                                                                                                            },
+                                                                                                                                                                            {
+                                                                                                                                                                              "name": "Builtin:LessThanOrEqual",
+                                                                                                                                                                              "value": 2,
+                                                                                                                                                                              "top": 2
+                                                                                                                                                                            },
+                                                                                                                                                                            {
+                                                                                                                                                                              "name": "Builtin:Subtract",
+                                                                                                                                                                              "value": 1,
+                                                                                                                                                                              "top": 1
+                                                                                                                                                                            }
+                                                                                                                                                                          ]
+                                                                                                                                                                        },
+                                                                                                                                                                        {
+                                                                                                                                                                          "name": "Builtin:Subtract",
+                                                                                                                                                                          "value": 1,
+                                                                                                                                                                          "top": 1
+                                                                                                                                                                        },
+                                                                                                                                                                        {
+                                                                                                                                                                          "name": "Builtin:LessThanOrEqual",
+                                                                                                                                                                          "value": 3,
+                                                                                                                                                                          "top": 3
+                                                                                                                                                                        }
+                                                                                                                                                                      ]
+                                                                                                                                                                    },
+                                                                                                                                                                    {
+                                                                                                                                                                      "name": "Builtin:Subtract",
+                                                                                                                                                                      "value": 2,
+                                                                                                                                                                      "top": 2
+                                                                                                                                                                    },
+                                                                                                                                                                    {
+                                                                                                                                                                      "name": "Builtin:LessThanOrEqual",
+                                                                                                                                                                      "value": 4,
+                                                                                                                                                                      "top": 4
+                                                                                                                                                                    }
+                                                                                                                                                                  ]
+                                                                                                                                                                },
+                                                                                                                                                                {
+                                                                                                                                                                  "name": "Builtin:Subtract",
+                                                                                                                                                                  "value": 11,
+                                                                                                                                                                  "top": 11
+                                                                                                                                                                },
+                                                                                                                                                                {
+                                                                                                                                                                  "name": "Builtin:LessThanOrEqual",
+                                                                                                                                                                  "value": 4,
+                                                                                                                                                                  "top": 4
+                                                                                                                                                                }
+                                                                                                                                                              ]
+                                                                                                                                                            },
+                                                                                                                                                            {
+                                                                                                                                                              "name": "Builtin:Subtract",
+                                                                                                                                                              "value": 5,
+                                                                                                                                                              "top": 5
+                                                                                                                                                            },
+                                                                                                                                                            {
+                                                                                                                                                              "name": "Builtin:LessThanOrEqual",
+                                                                                                                                                              "value": 6,
+                                                                                                                                                              "top": 6
+                                                                                                                                                            }
+                                                                                                                                                          ]
+                                                                                                                                                        },
+                                                                                                                                                        {
+                                                                                                                                                          "name": "Builtin:LessThanOrEqual",
+                                                                                                                                                          "value": 5,
+                                                                                                                                                          "top": 5
+                                                                                                                                                        },
+                                                                                                                                                        {
+                                                                                                                                                          "name": "Builtin:Subtract",
+                                                                                                                                                          "value": 6,
+                                                                                                                                                          "top": 6
+                                                                                                                                                        }
+                                                                                                                                                      ]
+                                                                                                                                                    },
+                                                                                                                                                    {
+                                                                                                                                                      "name": "Builtin:LessThanOrEqual",
+                                                                                                                                                      "value": 6,
+                                                                                                                                                      "top": 6
+                                                                                                                                                    },
+                                                                                                                                                    {
+                                                                                                                                                      "name": "Builtin:Subtract",
+                                                                                                                                                      "value": 4,
+                                                                                                                                                      "top": 4
+                                                                                                                                                    }
+                                                                                                                                                  ]
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                  "name": "Builtin:LessThanOrEqual",
+                                                                                                                                                  "value": 2,
+                                                                                                                                                  "top": 2
+                                                                                                                                                }
+                                                                                                                                              ]
+                                                                                                                                            },
+                                                                                                                                            {
+                                                                                                                                              "name": "Builtin:LessThanOrEqual",
+                                                                                                                                              "value": 3,
+                                                                                                                                              "top": 3
+                                                                                                                                            },
+                                                                                                                                            {
+                                                                                                                                              "name": "Builtin:Subtract",
+                                                                                                                                              "value": 2,
+                                                                                                                                              "top": 2
+                                                                                                                                            }
+                                                                                                                                          ]
+                                                                                                                                        }
+                                                                                                                                      ]
+                                                                                                                                    }
+                                                                                                                                  ]
+                                                                                                                                }
+                                                                                                                              ]
+                                                                                                                            }
+                                                                                                                          ]
+                                                                                                                        }
+                                                                                                                      ]
+                                                                                                                    }
+                                                                                                                  ]
+                                                                                                                }
+                                                                                                              ]
+                                                                                                            }
+                                                                                                          ]
+                                                                                                        }
+                                                                                                      ]
+                                                                                                    }
+                                                                                                  ]
+                                                                                                }
+                                                                                              ]
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                          "value": 382,
+                                                          "top": 265,
+                                                          "children": [
+                                                            {
+                                                              "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                              "value": 382,
+                                                              "top": 265,
+                                                              "children": [
+                                                                {
+                                                                  "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                  "value": 382,
+                                                                  "top": 265,
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                      "value": 382,
+                                                                      "top": 265,
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                          "value": 382,
+                                                                          "top": 265,
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                              "value": 382,
+                                                                              "top": 265,
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                  "value": 382,
+                                                                                  "top": 265,
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                      "value": 382,
+                                                                                      "top": 265,
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                          "value": 382,
+                                                                                          "top": 265,
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                              "value": 382,
+                                                                                              "top": 265,
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                  "value": 382,
+                                                                                                  "top": 265,
+                                                                                                  "children": [
+                                                                                                    {
+                                                                                                      "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                      "value": 382,
+                                                                                                      "top": 265,
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                          "value": 382,
+                                                                                                          "top": 265,
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                              "value": 382,
+                                                                                                              "top": 265,
+                                                                                                              "children": [
+                                                                                                                {
+                                                                                                                  "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                  "value": 382,
+                                                                                                                  "top": 265,
+                                                                                                                  "children": [
+                                                                                                                    {
+                                                                                                                      "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                      "value": 380,
+                                                                                                                      "top": 263,
+                                                                                                                      "children": [
+                                                                                                                        {
+                                                                                                                          "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                          "value": 379,
+                                                                                                                          "top": 262,
+                                                                                                                          "children": [
+                                                                                                                            {
+                                                                                                                              "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                              "value": 378,
+                                                                                                                              "top": 262,
+                                                                                                                              "children": [
+                                                                                                                                {
+                                                                                                                                  "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                                  "value": 376,
+                                                                                                                                  "top": 261,
+                                                                                                                                  "children": [
+                                                                                                                                    {
+                                                                                                                                      "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                                      "value": 373,
+                                                                                                                                      "top": 258,
+                                                                                                                                      "children": [
+                                                                                                                                        {
+                                                                                                                                          "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                                          "value": 366,
+                                                                                                                                          "top": 252,
+                                                                                                                                          "children": [
+                                                                                                                                            {
+                                                                                                                                              "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                                              "value": 349,
+                                                                                                                                              "top": 241,
+                                                                                                                                              "children": [
+                                                                                                                                                {
+                                                                                                                                                  "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                                                  "value": 311,
+                                                                                                                                                  "top": 219,
+                                                                                                                                                  "children": [
+                                                                                                                                                    {
+                                                                                                                                                      "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                                                      "value": 278,
+                                                                                                                                                      "top": 201,
+                                                                                                                                                      "children": [
+                                                                                                                                                        {
+                                                                                                                                                          "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                                                          "value": 225,
+                                                                                                                                                          "top": 168,
+                                                                                                                                                          "children": [
+                                                                                                                                                            {
+                                                                                                                                                              "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                                                              "value": 149,
+                                                                                                                                                              "top": 118,
+                                                                                                                                                              "children": [
+                                                                                                                                                                {
+                                                                                                                                                                  "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                                                                  "value": 93,
+                                                                                                                                                                  "top": 72,
+                                                                                                                                                                  "children": [
+                                                                                                                                                                    {
+                                                                                                                                                                      "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                                                                      "value": 48,
+                                                                                                                                                                      "top": 37,
+                                                                                                                                                                      "children": [
+                                                                                                                                                                        {
+                                                                                                                                                                          "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                                                                          "value": 16,
+                                                                                                                                                                          "top": 12,
+                                                                                                                                                                          "children": [
+                                                                                                                                                                            {
+                                                                                                                                                                              "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                                                                              "value": 3,
+                                                                                                                                                                              "top": 2,
+                                                                                                                                                                              "children": [
+                                                                                                                                                                                {
+                                                                                                                                                                                  "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                                                                                  "value": 1,
+                                                                                                                                                                                  "top": 0,
+                                                                                                                                                                                  "children": [
+                                                                                                                                                                                    {
+                                                                                                                                                                                      "name": "Builtin:LessThanOrEqual",
+                                                                                                                                                                                      "value": 1,
+                                                                                                                                                                                      "top": 1
+                                                                                                                                                                                    }
+                                                                                                                                                                                  ]
+                                                                                                                                                                                }
+                                                                                                                                                                              ]
+                                                                                                                                                                            },
+                                                                                                                                                                            {
+                                                                                                                                                                              "name": "Builtin:LessThanOrEqual",
+                                                                                                                                                                              "value": 2,
+                                                                                                                                                                              "top": 2
+                                                                                                                                                                            },
+                                                                                                                                                                            {
+                                                                                                                                                                              "name": "Builtin:Subtract",
+                                                                                                                                                                              "value": 1,
+                                                                                                                                                                              "top": 1
+                                                                                                                                                                            }
+                                                                                                                                                                          ]
+                                                                                                                                                                        },
+                                                                                                                                                                        {
+                                                                                                                                                                          "name": "Builtin:Subtract",
+                                                                                                                                                                          "value": 3,
+                                                                                                                                                                          "top": 3
+                                                                                                                                                                        },
+                                                                                                                                                                        {
+                                                                                                                                                                          "name": "Builtin:LessThanOrEqual",
+                                                                                                                                                                          "value": 4,
+                                                                                                                                                                          "top": 4
+                                                                                                                                                                        }
+                                                                                                                                                                      ]
+                                                                                                                                                                    },
+                                                                                                                                                                    {
+                                                                                                                                                                      "name": "Builtin:Subtract",
+                                                                                                                                                                      "value": 7,
+                                                                                                                                                                      "top": 7
+                                                                                                                                                                    },
+                                                                                                                                                                    {
+                                                                                                                                                                      "name": "Builtin:LessThanOrEqual",
+                                                                                                                                                                      "value": 3,
+                                                                                                                                                                      "top": 3
+                                                                                                                                                                    }
+                                                                                                                                                                  ]
+                                                                                                                                                                },
+                                                                                                                                                                {
+                                                                                                                                                                  "name": "Builtin:Subtract",
+                                                                                                                                                                  "value": 4,
+                                                                                                                                                                  "top": 4
+                                                                                                                                                                },
+                                                                                                                                                                {
+                                                                                                                                                                  "name": "Builtin:LessThanOrEqual",
+                                                                                                                                                                  "value": 6,
+                                                                                                                                                                  "top": 6
+                                                                                                                                                                }
+                                                                                                                                                              ]
+                                                                                                                                                            },
+                                                                                                                                                            {
+                                                                                                                                                              "name": "Builtin:Subtract",
+                                                                                                                                                              "value": 14,
+                                                                                                                                                              "top": 14
+                                                                                                                                                            },
+                                                                                                                                                            {
+                                                                                                                                                              "name": "Builtin:LessThanOrEqual",
+                                                                                                                                                              "value": 12,
+                                                                                                                                                              "top": 12
+                                                                                                                                                            }
+                                                                                                                                                          ]
+                                                                                                                                                        },
+                                                                                                                                                        {
+                                                                                                                                                          "name": "Builtin:Subtract",
+                                                                                                                                                          "value": 6,
+                                                                                                                                                          "top": 6
+                                                                                                                                                        },
+                                                                                                                                                        {
+                                                                                                                                                          "name": "Builtin:LessThanOrEqual",
+                                                                                                                                                          "value": 14,
+                                                                                                                                                          "top": 14
+                                                                                                                                                        }
+                                                                                                                                                      ]
+                                                                                                                                                    },
+                                                                                                                                                    {
+                                                                                                                                                      "name": "Builtin:Subtract",
+                                                                                                                                                      "value": 6,
+                                                                                                                                                      "top": 6
+                                                                                                                                                    },
+                                                                                                                                                    {
+                                                                                                                                                      "name": "Builtin:LessThanOrEqual",
+                                                                                                                                                      "value": 9,
+                                                                                                                                                      "top": 9
+                                                                                                                                                    }
+                                                                                                                                                  ]
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                  "name": "Builtin:LessThanOrEqual",
+                                                                                                                                                  "value": 12,
+                                                                                                                                                  "top": 12
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                  "name": "Builtin:Subtract",
+                                                                                                                                                  "value": 4,
+                                                                                                                                                  "top": 4
+                                                                                                                                                }
+                                                                                                                                              ]
+                                                                                                                                            },
+                                                                                                                                            {
+                                                                                                                                              "name": "Builtin:LessThanOrEqual",
+                                                                                                                                              "value": 2,
+                                                                                                                                              "top": 2
+                                                                                                                                            },
+                                                                                                                                            {
+                                                                                                                                              "name": "Builtin:Subtract",
+                                                                                                                                              "value": 4,
+                                                                                                                                              "top": 4
+                                                                                                                                            }
+                                                                                                                                          ]
+                                                                                                                                        },
+                                                                                                                                        {
+                                                                                                                                          "name": "Builtin:Subtract",
+                                                                                                                                          "value": 1,
+                                                                                                                                          "top": 1
+                                                                                                                                        }
+                                                                                                                                      ]
+                                                                                                                                    }
+                                                                                                                                  ]
+                                                                                                                                },
+                                                                                                                                {
+                                                                                                                                  "name": "Builtin:LessThanOrEqual",
+                                                                                                                                  "value": 1,
+                                                                                                                                  "top": 1
+                                                                                                                                }
+                                                                                                                              ]
+                                                                                                                            },
+                                                                                                                            {
+                                                                                                                              "name": "Builtin:LessThanOrEqual",
+                                                                                                                              "value": 1,
+                                                                                                                              "top": 1
+                                                                                                                            }
+                                                                                                                          ]
+                                                                                                                        }
+                                                                                                                      ]
+                                                                                                                    }
+                                                                                                                  ]
+                                                                                                                }
+                                                                                                              ]
+                                                                                                            }
+                                                                                                          ]
+                                                                                                        }
+                                                                                                      ]
+                                                                                                    }
+                                                                                                  ]
+                                                                                                }
+                                                                                              ]
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "name": "Stub:CEntryStub",
+                                                      "value": 4,
+                                                      "top": 4,
+                                                      "children": [
+                                                        {
+                                                          "name": "Stub:JSEntryStub",
+                                                          "value": 4,
+                                                          "top": 0,
+                                                          "children": [
+                                                            {
+                                                              "name": "Builtin:JSEntryTrampoline",
+                                                              "value": 4,
+                                                              "top": 0,
+                                                              "children": [
+                                                                {
+                                                                  "name": "Builtin:ArgumentsAdaptorTrampoline",
+                                                                  "value": 4,
+                                                                  "top": 0,
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "Builtin:InterpreterEntryTrampoline",
+                                                                      "value": 4,
+                                                                      "top": 0,
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "Builtin:InterpreterEntryTrampoline",
+                                                                          "value": 4,
+                                                                          "top": 0,
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "Builtin:ArgumentsAdaptorTrampoline",
+                                                                              "value": 3,
+                                                                              "top": 0,
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "Builtin:InterpreterEntryTrampoline",
+                                                                                  "value": 3,
+                                                                                  "top": 0,
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "Builtin:ArgumentsAdaptorTrampoline",
+                                                                                      "value": 3,
+                                                                                      "top": 0,
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "Builtin:CompileLazy",
+                                                                                          "value": 1,
+                                                                                          "top": 0,
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "Stub:CEntryStub",
+                                                                                              "value": 1,
+                                                                                              "top": 1
+                                                                                            }
+                                                                                          ]
+                                                                                        },
+                                                                                        {
+                                                                                          "name": "Builtin:InterpreterEntryTrampoline",
+                                                                                          "value": 2,
+                                                                                          "top": 0,
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "Builtin:CompileLazy",
+                                                                                              "value": 1,
+                                                                                              "top": 0,
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "name": "Stub:CEntryStub",
+                                                                                                  "value": 1,
+                                                                                                  "top": 1
+                                                                                                }
+                                                                                              ]
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "Builtin:InterpreterEntryTrampoline",
+                                                                                              "value": 1,
+                                                                                              "top": 0,
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "name": "Builtin:InterpreterEntryTrampoline",
+                                                                                                  "value": 1,
+                                                                                                  "top": 0,
+                                                                                                  "children": [
+                                                                                                    {
+                                                                                                      "name": "Builtin:InterpreterEntryTrampoline",
+                                                                                                      "value": 1,
+                                                                                                      "top": 0,
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "name": "Builtin:InterpreterEntryTrampoline",
+                                                                                                          "value": 1,
+                                                                                                          "top": 0,
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "name": "Builtin:ArgumentsAdaptorTrampoline",
+                                                                                                              "value": 1,
+                                                                                                              "top": 0,
+                                                                                                              "children": [
+                                                                                                                {
+                                                                                                                  "name": "Builtin:CompileLazy",
+                                                                                                                  "value": 1,
+                                                                                                                  "top": 0,
+                                                                                                                  "children": [
+                                                                                                                    {
+                                                                                                                      "name": "Stub:CEntryStub",
+                                                                                                                      "value": 1,
+                                                                                                                      "top": 1
+                                                                                                                    }
+                                                                                                                  ]
+                                                                                                                }
+                                                                                                              ]
+                                                                                                            }
+                                                                                                          ]
+                                                                                                        }
+                                                                                                      ]
+                                                                                                    }
+                                                                                                  ]
+                                                                                                }
+                                                                                              ]
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            },
+                                                                            {
+                                                                              "name": "Builtin:CompileLazy",
+                                                                              "value": 1,
+                                                                              "top": 0,
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "Stub:CEntryStub",
+                                                                                  "value": 1,
+                                                                                  "top": 1
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "Builtin:CompileLazy",
+                                      "value": 1,
+                                      "top": 0,
+                                      "children": [
+                                        {
+                                          "name": "Stub:CEntryStub",
+                                          "value": 1,
+                                          "top": 0,
+                                          "children": [
+                                            {
+                                              "name": "libsystem_kernel.dylib`__write_nocancel+0xa",
+                                              "value": 1,
+                                              "top": 1
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "libsystem_kernel.dylib`__psynch_cvwait+0xa",
+          "value": 1,
+          "top": 1
+        },
+        {
+          "name": "node`v8::internal::OldSpace::~OldSpace",
+          "value": 1,
+          "top": 0,
+          "children": [
+            {
+              "name": "libsystem_kernel.dylib`__mmap+0xa",
+              "value": 1,
+              "top": 1
+            }
+          ]
+        },
+        {
+          "name": "libsystem_kernel.dylib`__exit+0xa",
+          "value": 1,
+          "top": 1
+        }
+      ]
+    },
+    {
+      "name": "Builtin:InterpreterEntryTrampoline",
+      "value": 1,
+      "top": 0,
+      "children": [
+        {
+          "name": "Builtin:InterpreterEntryTrampoline",
+          "value": 1,
+          "top": 0,
+          "children": [
+            {
+              "name": "Builtin:InterpreterEntryTrampoline",
+              "value": 1,
+              "top": 0,
+              "children": [
+                {
+                  "name": "Builtin:InterpreterEntryTrampoline",
+                  "value": 1,
+                  "top": 0,
+                  "children": [
+                    {
+                      "name": "Builtin:InterpreterEntryTrampoline",
+                      "value": 1,
+                      "top": 0,
+                      "children": [
+                        {
+                          "name": "Builtin:InterpreterEntryTrampoline",
+                          "value": 1,
+                          "top": 0,
+                          "children": [
+                            {
+                              "name": "Builtin:InterpreterEntryTrampoline",
+                              "value": 1,
+                              "top": 0,
+                              "children": [
+                                {
+                                  "name": "Builtin:InterpreterEntryTrampoline",
+                                  "value": 1,
+                                  "top": 0,
+                                  "children": [
+                                    {
+                                      "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                      "value": 1,
+                                      "top": 1,
+                                      "children": [
+                                        {
+                                          "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                          "value": 1,
+                                          "top": 1,
+                                          "children": [
+                                            {
+                                              "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                              "value": 1,
+                                              "top": 1,
+                                              "children": [
+                                                {
+                                                  "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                  "value": 1,
+                                                  "top": 1,
+                                                  "children": [
+                                                    {
+                                                      "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                      "value": 1,
+                                                      "top": 1,
+                                                      "children": [
+                                                        {
+                                                          "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                          "value": 1,
+                                                          "top": 1,
+                                                          "children": [
+                                                            {
+                                                              "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                              "value": 1,
+                                                              "top": 1,
+                                                              "children": [
+                                                                {
+                                                                  "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                  "value": 1,
+                                                                  "top": 1,
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                      "value": 1,
+                                                                      "top": 1,
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                          "value": 1,
+                                                                          "top": 1,
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                              "value": 1,
+                                                                              "top": 1,
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                  "value": 1,
+                                                                                  "top": 1,
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                      "value": 1,
+                                                                                      "top": 1,
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                          "value": 1,
+                                                                                          "top": 1,
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                              "value": 1,
+                                                                                              "top": 1,
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                  "value": 1,
+                                                                                                  "top": 1,
+                                                                                                  "children": [
+                                                                                                    {
+                                                                                                      "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                      "value": 1,
+                                                                                                      "top": 1,
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                          "value": 1,
+                                                                                                          "top": 1,
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                              "value": 1,
+                                                                                                              "top": 1,
+                                                                                                              "children": [
+                                                                                                                {
+                                                                                                                  "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                  "value": 1,
+                                                                                                                  "top": 1,
+                                                                                                                  "children": [
+                                                                                                                    {
+                                                                                                                      "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                      "value": 1,
+                                                                                                                      "top": 1,
+                                                                                                                      "children": [
+                                                                                                                        {
+                                                                                                                          "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                          "value": 1,
+                                                                                                                          "top": 1,
+                                                                                                                          "children": [
+                                                                                                                            {
+                                                                                                                              "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                              "value": 1,
+                                                                                                                              "top": 1,
+                                                                                                                              "children": [
+                                                                                                                                {
+                                                                                                                                  "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                                  "value": 1,
+                                                                                                                                  "top": 1,
+                                                                                                                                  "children": [
+                                                                                                                                    {
+                                                                                                                                      "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                                      "value": 1,
+                                                                                                                                      "top": 1,
+                                                                                                                                      "children": [
+                                                                                                                                        {
+                                                                                                                                          "name": "LazyCompile:*f /Users/khaosdoctor/Documents/Repos/Repl/palestra-performance-nodejs/exemplo-node-flamegraph/index.js:1",
+                                                                                                                                          "value": 1,
+                                                                                                                                          "top": 1
+                                                                                                                                        }
+                                                                                                                                      ]
+                                                                                                                                    }
+                                                                                                                                  ]
+                                                                                                                                }
+                                                                                                                              ]
+                                                                                                                            }
+                                                                                                                          ]
+                                                                                                                        }
+                                                                                                                      ]
+                                                                                                                    }
+                                                                                                                  ]
+                                                                                                                }
+                                                                                                              ]
+                                                                                                            }
+                                                                                                          ]
+                                                                                                        }
+                                                                                                      ]
+                                                                                                    }
+                                                                                                  ]
+                                                                                                }
+                                                                                              ]
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
