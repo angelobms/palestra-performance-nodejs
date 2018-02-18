@@ -1,9 +1,20 @@
-# Execução 
+# Execução
 
 Execute os seguintes comandos depois do `npm install`:
 
+__Rode o exemplo não otimizado__:
+
 ```
 $ node --prof index.js
+$ node --prof-process *.log
+```
+
+Apague os arquivos `*.log`
+
+__Rode o exemplo otimizado__:
+
+```
+$ node --prof index-optimized.js
 $ node --prof-process *.log
 ```
 
