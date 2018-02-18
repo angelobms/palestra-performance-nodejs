@@ -44,7 +44,6 @@ console.timeEnd('forin')
 console.time('map')
 readItems
   .map(i => i.name.length ** 100)
-  .concat(readItems.map(i => i.name.length ** 100))
 console.timeEnd('map')
 
 console.time('map_filter_reduce')
