@@ -3,9 +3,9 @@
 ## Sobre
 
 Esse repositório é um fork da [palestra do Erick Wendel](https://github.com/ErickWendel/palestra-performance-nodejs) que rolou no DevXperience em
-01/09/17. Utilizei os mesmo exeplos para apresentar a palestra sobre Desempenho de aplicações Node.js.
+01/09/17. Utilizei os mesmo exemplos para apresentar a palestra sobre Desempenho de aplicações Node.js.
 
-Adicionei um exemplo a mais com profiling e flamegraphs, editei alguns exemplos para ficarem mais fáceis de serem usados por quem quiser.
+Adicionei uns exemplo a mais com profiling, clusters e flamegraphs, editei alguns exemplos para ficarem mais fáceis de serem usados por quem quiser.
 
 Cada exemplo tem seu próprio README com informações úteis.
 
