@@ -8,38 +8,37 @@ db.on('error', (err) => log('database error', err))
 db.on('connect', () => log('database connected'))
 const Hapi = require('hapi')
 const app = new Hapi.Server({
-    cache: [
-
-        {
-            name: 'redisCache',
-            engine: require('catbox-redis'),
-            host: '127.0.0.1',
-            partition: 'cache'
-        }
-    ]
+  cache: [
+    {
+      name: 'redisCache',
+      engine: require('catbox-redis'),
+      host: '127.0.0.1',
+      partition: 'cache'
+    }
+  ]
 })
 app.connection({ port: 7000, host: 'localhost' })
 
 const findAsync = (next) => heroesDb.findAsync().then(res => next(null, res))
 app.method('findAsync', findAsync, {
-    cache: {
-        cache: 'redisCache',
-        expiresIn: 30 * 10000,
-        generateTimeout: 100
-    }
-});
- 
+  cache: {
+    cache: 'redisCache',
+    expiresIn: 30 * 10000,
+    generateTimeout: 100
+  }
+})
+
 app.route([{
-    path: '/',
-    method: 'GET',
-    handler: (req, reply) => {
-        app.methods.findAsync((err, res, cached, report) => {
-            const lastModified = cached ? new Date(cached.stored) : new Date();
-            log(`ultimo cache: ${lastModified.toLocaleString()}`)
-            if (err) return reply('deu rum' + err)
-            return reply(res)//.header('last-modified', lastModified.toUTCString());
-        })
-    }
+  path: '/',
+  method: 'GET',
+  handler: (req, reply) => {
+    app.methods.findAsync((err, res, cached, report) => {
+      const lastModified = cached ? new Date(cached.stored) : new Date()
+      log(`ultimo cache: ${lastModified.toLocaleString()}`)
+      if (err) return reply('deu rum' + err)
+      return reply(res) // .header('last-modified', lastModified.toUTCString())
+    })
+  }
 }])
 
-app.start((err) => log(`hapi running at ${app.info.uri}, ${err || ""}`))
+app.start((err) => log(`hapi running at ${app.info.uri}, ${err || ''}`))
