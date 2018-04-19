@@ -16,8 +16,11 @@ if (cluster.isMaster) {
   }).listen(PORT, () => console.log(`Processo ${process.pid} ouvindo na porta ${PORT}`))
 }
 
-cluster.on('online', (worker) => console.log(`Worker ${worker.id} no processo ${worker.process.pid} está ativo`))
-cluster.on('exit', (worker, code, signal) => {
-  console.log(`Worker ${worker.id} morreu com o código ${code}, através do sinal ${signal}. Iniciando um novo`)
-})
+cluster.on('online',
+  (worker) => console.log(`Worker ${worker.id} no processo ${worker.process.pid} está ativo`)
+)
+
+cluster.on('exit',
+  (worker, code, signal) => console.log(`Worker ${worker.id} morreu com o código ${code}, através do sinal ${signal}. Iniciando um novo`)
+)
 
