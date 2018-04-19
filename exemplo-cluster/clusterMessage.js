@@ -12,7 +12,7 @@ if (cluster.isMaster) {
   for (var i = 0; i < numWorkers; i++) {
     let worker = cluster.fork()
     worker.on('message', function (message) {
-      console.log(message.from + ': ' + message.type + ' ' + message.data.number + ' = ' + message.data.result)
+      console.log(`${message.from}: ${message.type}(${message.data.number}) = ${message.data.result}`)
     })
   }
 
@@ -42,10 +42,11 @@ if (cluster.isMaster) {
     console.log('Criando novo')
     let newWorker = cluster.fork()
     newWorker.on('message', function (message) {
-      console.log(message.from + ': ' + message.type + ' ' + message.data.number + ' = ' + message.data.result)
+      console.log(`${message.from}: ${message.type}(${message.data.number}) = ${message.data.result}`)
     })
   })
 }
+
 process.on('message', function (message) {
   if (message.type === 'factorial') {
     process.send({
@@ -56,7 +57,7 @@ process.on('message', function (message) {
         result: factorial(message.data.number)
       }
     })
-    // process.exit(0)
+    process.exit(0)
   }
 })
 
