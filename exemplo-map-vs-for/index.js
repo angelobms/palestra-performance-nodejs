@@ -37,10 +37,11 @@ for (let i in readItems) {
   itemsForin.push(readItems[i].name.length ** 100)
 }
 console.timeEnd('forin')
-
-
-
-
+/*
+*
+*
+*
+*/
 console.time('map')
 readItems
   .map(i => i.name.length ** 100)
@@ -53,10 +54,11 @@ readItems
   .filter(i => i % 2 === 0)
   .reduce((next, prev) => next ** 2)
 console.timeEnd('map_filter_reduce')
-
-
-
-
+/*
+*
+*
+*
+*/
 console.time('map_reduce')
 readItems
   .map(i => i.name.length ** 100)
@@ -71,12 +73,11 @@ readItems
   .filter(i => i % 2 === 0)
   .reduce((next, prev) => next ** 2)
 console.timeEnd('map_filter_reduce')
-
-
-
-
-
-
+/*
+*
+*
+*
+*/
 console.time('map_filter')
 readItems
   .map(i => i.name.length ** 100)
@@ -91,9 +92,5 @@ readItems
   .filter(i => i % 2 === 0)
   .reduce((next, prev) => next ** 2)
 console.timeEnd('map_filter_reduce')
-
-
-
-
 
 process.exit(0)
