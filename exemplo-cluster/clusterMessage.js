@@ -30,7 +30,7 @@ if (cluster.isMaster) {
     console.log('Worker ' + worker.process.pid + ' online')
     // cluster.workers[worker.id].send({
     //   type: 'factorial',
-    //   from: 'master',
+    //   from: worker.id,
     //   data: {
     //     number: Math.floor(Math.random() * 50)
     //   }
@@ -57,7 +57,7 @@ process.on('message', function (message) {
         result: factorial(message.data.number)
       }
     })
-    process.exit(0)
+    // process.exit(0)
   }
 })
 
